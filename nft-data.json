@@ -1,0 +1,11 @@
+{
+    "name": "License Collection MyApp",
+    "description": "License Collection for Software MyApp",
+    "image": "https://media.istockphoto.com/id/1269500670/de/vektor/gelbe-gummiente-symbol.jpg?s=2048x2048&w=is&k=20&c=VswCWApYsRQp62u8fJxrHJmIxZy3FoQZ3z2ibGku6cY=",
+    "attributes": [
+        {
+            "trait_type": "License Type",
+            "value": "MIT"
+        }
+    ]
+  }
