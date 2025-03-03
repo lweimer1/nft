@@ -1,0 +1,14 @@
+{
+    "name": "License One MyApp",
+    "description": "License One MyApp",
+    "image": "https://media.istockphoto.com/id/1269500670/de/vektor/gelbe-gummiente-symbol.jpg?s=2048x2048&w=is&k=20&c=VswCWApYsRQp62u8fJxrHJmIxZy3FoQZ3z2ibGku6cY=",
+    "properties": {
+    "files": [
+      {
+        "uri": "http://raw.githubusercontent.com/lweimer1/nft/main/known-host.json",
+        "type": "application/json"
+      }
+    ],
+    "category": "Software License"
+  }
+  }
